@@ -1,2 +1,2 @@
 # solitaire
-Solitaire game for coded in C
+Solitaire game coded in C
